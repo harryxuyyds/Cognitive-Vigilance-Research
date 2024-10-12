@@ -1,0 +1,12 @@
+__pycache__/
+.idea/
+build/
+dist/
+Analyse_test/
+data_temp/
+Version_info.txt
+.ipynb_checkpoints
+*.ipynb
+*.log
+*.manifest
+*.spec
