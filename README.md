@@ -1,5 +1,6 @@
 # Cognitive-Vigilance-Research
 
+**此文档原文位于作者网站：https://harryxu.top/**
 
 ## 〇、前言
 
